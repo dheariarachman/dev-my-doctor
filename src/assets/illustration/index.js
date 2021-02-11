@@ -1,3 +1,3 @@
-import DoctorSplash from './my_doctor_bg.png';
+import MDBackground from './bg.png';
 
-export {DoctorSplash};
+export {MDBackground};
